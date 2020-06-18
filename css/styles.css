@@ -114,7 +114,13 @@ ul {
 
 .bottom {
   flex-direction: column;
+}
 
+.button {
+  margin-bottom: 10%;
+}
 
+.ul {
+  padding-bottom: 10%;
 }
 }
