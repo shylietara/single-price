@@ -12,14 +12,11 @@ body {
   width: 100vw;
 }
 
-main {
-  min-width: 100%;
-  min-height: 100%;
-}
 
 h1 {
   color: #49bdbd;
   font-weight: 700;
+  padding-top: 30px;
 }
 
 h2 {
@@ -74,7 +71,6 @@ h2 {
   width: 100%;
   height: 50vh;
   margin-top: 145px;
-  position: sticky;
 }
 
 .left {
