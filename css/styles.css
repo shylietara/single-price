@@ -68,7 +68,6 @@ h2 {
 .bottom {
   display: flex;
   position: relative;
-  width: 100%;
   height: 50vh;
   margin-top: 145px;
 }
@@ -76,8 +75,7 @@ h2 {
 .left {
   background-color: #2ab2af;
   width: 100%;
-  padding: 3% 5% 5% 5%;
-  position: sticky;
+  padding: 3% 5% 2% 5%;
 }
 
 .button {
@@ -100,8 +98,7 @@ h2 {
 .right {
   background-color: #49bdbd;
   width: 100%;
-  padding: 3% 5% 5% 5%;
-  position: sticky;
+  padding: 3% 5% 2% 5%;
 }
 
 ul {
